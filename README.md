@@ -9,7 +9,7 @@ Instrucciones para realizar las prácticas.
 * Puedes hacer el ejercicio en el mismo archivo ".py" respetando la indentación, o puedes usar el editor de código sugerido "Visual Studio Code", que se encuentra el link en esta misma hoja arriba, de color azul.  También puedes usar tu editor de código preferido y luego copias la solución en el archivo ".py"
 * Una vez finazlizado tu código, lo pegas en el archivo ".py", correspondiente al número de ejercicio.
 * Luego realizás un commit, si quieres escribes un comentario.
-* Si no puedes completar el ejercicio, puedes usar la opción "Issues", que se encuentra arriba, el botón al lado de "code", luego de hacer click escribes tus dudas y informas donde te trabaste con el ejercicio.  En las próximas 24 horas te contesto, brindando una sugerencia para avanzar con el código, o quizás explique algún concepto que haya que repasar.
+* Si no puedes completar el ejercicio, puedes usar la opción "Issues", que se encuentra arriba, el botón al lado de "code", luego de hacer click escribes tus dudas e informas donde te trabaste con el ejercicio.  En las próximas 24 horas te contesto, brindando una sugerencia para avanzar con el código, o quizás explique algún concepto que haya que repasar.
 * Puedes conectarte y trabajar a cualquier hora, yo te daré soporte en las próximas 24 horas, de esa manera no estarás solo realizando las prácticas.
 * Cualquier duda o consulta, usa los "Issues", para comunicarte y te daremos soporte.
 * Si no hiciste el curso "Python - Desde cero" conmigo, no te preocupes, puedes sumarte a la práctica y luego te informaré la nueva fecha del curso.
@@ -17,3 +17,11 @@ Instrucciones para realizar las prácticas.
   
  ----
   
+  # ¿Qué necesito tener instalado en mi pc o notebook para realizar la prática?
+  
+  * Tener una cuenta en GitHub: https://github.com/  
+  * Instalar Python desde:  https://www.python.org/downloads/
+  * También puedes optar por usar GitHub desde tu pc o notebook:   https://desktop.github.com/
+
+----
+
