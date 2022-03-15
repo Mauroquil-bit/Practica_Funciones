@@ -5,7 +5,6 @@
 ----
 
 
-* En el repositorio que se generó en tu muro, vas a encontrar varios archivos con terminación ".py", cada uno de ellos tienen el número de ejercicio correspondiente y la explicación de la consigna o desafío a completar.
 * Puedes hacer el ejercicio en el mismo archivo ".py" respetando la indentación, o puedes usar el editor de código sugerido "Visual Studio Code", que se encuentra el link en esta misma hoja arriba, de color azul.  También puedes usar tu editor de código preferido y luego copias la solución en el archivo ".py"
 * Una vez finazlizado tu código, lo pegas en el archivo ".py", correspondiente al número de ejercicio.
 * Luego realizás un commit, si quieres escribes un comentario.
