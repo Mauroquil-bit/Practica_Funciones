@@ -6,7 +6,7 @@
 
 
 * Puedes hacer el ejercicio en el mismo archivo ".py" respetando la indentación, o puedes usar el editor de código sugerido "Visual Studio Code", que se encuentra el link en esta misma hoja arriba, de color azul.  También puedes usar tu editor de código preferido y luego copias la solución en el archivo ".py"
-* Una vez finazlizado tu código, lo pegas en el archivo ".py", correspondiente al número de ejercicio.
+* Una vez finalizado tu código, lo pegas en el archivo ".py", correspondiente al número de ejercicio.
 * Luego realizás un commit, si quieres escribes un comentario.
 * Si no puedes completar el ejercicio, puedes usar la opción "Issues", que se encuentra arriba, el botón al lado de "code", luego de hacer click escribes tus dudas e informas donde te trabaste con el ejercicio.  En las próximas 24 horas te contesto, brindando una sugerencia para avanzar con el código, o quizás explique algún concepto que haya que repasar.
 * Puedes conectarte y trabajar a cualquier hora, yo te daré soporte en las próximas 24 horas, de esa manera no estarás solo realizando las prácticas.
